@@ -1,9 +1,9 @@
 # Predicting the distances to galaxies with photometric redshift via regression
 
 # Overview
-Measuring the distances to galaxies is often a necessary measurement in various areas of astrophysics research, for example in gravitational lensing. One method, known as spectroscopic redshift, yields accurate results but are very time-consuming and costly, making it impractical to employ on large scales.
+Measuring the distances to galaxies is often a necessary measurement in various areas of astrophysics research, for example in gravitational lensing. One method, known as spectroscopic redshift, yields accurate results but is very time-consuming and costly, making it impractical to employ on large scales.
 
-In this project, we make use of photometry data, and train various regression models to predict the distances of galaxies . The features are the brightness (or magnitude) of galaxies viewed through five different colored filters, along with their corresponding uncertainties. With spectroscopy data, the distances to a small subset of galaxies were determined, which make up our labels. We can then proceed to train suitable regression models on our data to predict the distances to the remaining galaxies, without the need to employ spectroscopy across the entire set.
+In this project, we make use of photometry data, and train various regression models to predict the distances of galaxies. The features are the brightness (or magnitude) of galaxies viewed through five different colored filters, along with their corresponding uncertainties. With spectroscopy data, the distances to a small subset of galaxies were determined, which make up our labels. We can then proceed to train suitable regression models on our data to predict the distances to the remaining galaxies, without the need to employ spectroscopy across the entire set.
 
 
 # Python and package versions
