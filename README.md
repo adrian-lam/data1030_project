@@ -1,4 +1,4 @@
-## Predicting the distances to galaxies with photometric redshift via regression
+# Predicting the distances to galaxies with photometric redshift via regression
 
 #Overview
 Measuring the distances to galaxies are often a necessary measurement in various areas of astrophysics research, for example in gravitational lensing. One method, known as spectroscopic redshift, yields accurate results but are very time-consuming and costly, making it impractical to employ in large scales.
