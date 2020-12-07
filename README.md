@@ -6,7 +6,7 @@ In this project, we make use of photometry data, and train various regression mo
 
 
 #Python and package versions
-(also view .yaml file)
+(.yml file included in repo)
   - python=3.7.8
   - numpy=1.18.5
   - pandas=1.0.5
